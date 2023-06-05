@@ -2,91 +2,90 @@
 sidebar_position: 1
 ---
 
-# Welcome
+# Hoş Geldiniz
 
-Welcome to our introductory course on prompt engineering!
+AI ile etkili iletişim kurarak istenen sonuçlara ulaşma sürecine hoş geldiniz! 
 
-Prompt engineering (PE) is the process of **communicating effectively with an AI to achieve desired results**. As AI technology continues to rapidly advance, the ability to master prompt engineering has become a particularly valuable skill. Prompt engineering techniques can be applied to a wide variety of tasks, making it a useful tool for anyone seeking to improve their efficiency in both everyday and innovative activities.
+Prompt mühendisliği (PE), **istediğiniz sonuçları elde etmek için bir AI ile etkili iletişim kurma sürecidir**. AI teknolojisi hızla ilerledikçe, prompt mühendisliğini ustalaşmak özellikle değerli bir beceri haline gelmiştir. Prompt mühendisliği teknikleri çeşitli görevlere uygulanabilir ve hem günlük hem de yenilikçi faaliyetlerde verimliliği artırmak isteyen herkes için faydalı bir araçtır.
 
-This course is tailored to **beginners**, making it the perfect starting point if you're new to AI and PE. However, even if you're not a beginner, you'll still find valuable insights within this course. This course is the **most comprehensive** prompt engineering course available, and the content ranges from an introduction to AI to advanced PE techniques.
+Bu kurs, **yeni başlayanlar** için özelleştirilmiştir, bu yüzden AI ve PE konularında yeniyseniz başlamak için mükemmel bir noktadır. Ancak, eğer yeni başlayan değilseniz, yine de bu kurs içinde değerli bilgiler bulacaksınız. Bu kurs, mevcut en kapsamlı prompt mühendisliği kursudur ve içerik AI'ya girişten ileri düzey PE tekniklerine kadar uzanmaktadır.
 
-## Ethos and Philosophy
+## Etik ve Felsefe
 
-This course is open source, and built by a diverse community of researchers, translators, and hobbyists. We believe that AI should be accessible to everyone, and that it should be described clearly and objectively. To this end, we strive to produce a comprehensive and unbiased course that is free of excessive jargon and hype.
+Bu kurs açık kaynaklıdır ve araştırmacılar, çevirmenler ve hobilerden oluşan çeşitli bir topluluk tarafından oluşturulmuştur. AI'nin herkes tarafından erişilebilir olması gerektiğine ve açık ve tarafsız bir şekilde açıklanması gerektiğine inanıyoruz. Bu amaçla, aşırı jargon ve abartıdan arınmış, kapsamlı ve tarafsız bir kurs üretmeye çalışıyoruz.
 
-We have found this approach to be appreciated by the PE community: This course is cited by [Wikipedia](https://en.wikipedia.org/wiki/Prompt_engineering#cite_ref-15), and is used by people at companies such as [O'REILLY](https://learning.oreilly.com/live-events/prompt-engineering-for-generating-ai-art-and-text/0636920084340/0636920084339/), Scale AI, and OpenAI. You may also notice that <a href="https://youtu.be/GPqSoiOP3w8?t=274" rel={"nofollow"}>almost </a><a href="https://learnwithhasan.com/prompt-engineering-guide/" rel={"nofollow"}>every </a><a href="https://www.youtube.com/watch?v=EYjG6i53-xk" rel={"nofollow"}>other </a> <a href="https://youtu.be/yR4hNBNS6yc?t=743" rel={"nofollow"}>prompt </a> <a href="https://youtu.be/pZsJbYIFCCw?t=208" rel={"nofollow"}>engineering </a> <a href="https://youtu.be/4kp7oVTu9Ck?t=495" rel={"nofollow"}>video </a> <a href="https://www.youtube.com/watch?v=q5wuHUmGFMw" rel={"nofollow"}>and </a> <a href="https://youtu.be/f8PGV3T9w38?t=549" rel={"nofollow"}>guide </a>
-uses material from this course. We are honored to support the prompt engineering community, including our 620K users and 33K [Discord](https://discord.gg/learn-prompting) members.
+Bu yaklaşımın, PE topluluğu tarafından takdir edildiğini gördük: Bu kurs [Wikipedia](https://en.wikipedia.org/wiki/Prompt_engineering#cite_ref-15) tarafından alıntılanmaktadır ve O'REILLY, Scale AI ve OpenAI gibi şirketlerdeki insanlar tarafından kullanılmaktadır. Ayrıca, hemen hemen <a href="https://youtu.be/GPqSoiOP3w8?t=274" rel={"nofollow"}>her </a><a href="https://learnwithhasan.com/prompt-engineering-guide/" rel={"nofollow"}>diğer </a><a href="https://www.youtube.com/watch?v=EYjG6i53-xk" rel={"nofollow"}>prompt </a><a href="https://youtu.be/yR4hNBNS6yc?t=743" rel={"nofollow"}>engineering </a><a href="https://youtu.be/pZsJbYIFCCw?t=208" rel={"nofollow"}>video </a><a href="https://youtu.be/4kp7oVTu9Ck?t=495" rel={"nofollow"}>ve </a><a href="https://www.youtube.com/watch?v=q5wuHUmGFMw" rel={"nofollow"}>guide </a>bu kursun materyallerini kullanmaktadır. 620 bin kullanıcımız ve 33 bin [Discord](https://discord.gg/learn-prompting) üyemiz de dahil olmak üzere prompt mühendisliği topluluğunu desteklemekten onur duyuyoruz.
 
-### How we teach
+### Nasıl Öğretiyoruz
 
-Our approach to teaching prompt engineering is guided by the following principles:
+Prompt mühendisliği öğretme yaklaşımımız aşağıdaki prensiplere göre şekillenmektedir:
 
-**Quick Iterations**—Since new PE content is published almost daily, we'll keep this course up-to-date with frequent, concise articles about emerging techniques. Please tell us what topics you'd like us to explore further!
+**Hızlı İterasyonlar** - Yeni PE içeriği neredeyse günlük olarak yayınlandığından, bu kursu güncel tutmak için sık ve özlü makalelerle sürekli güncelleyeceğiz. Lütfen hangi konuları daha fazla keşfetmemizi istediğinizi bize bildirin!
 
-**Emphasis on Practicality**—Our focus is on applied, practical techniques that you can immediately incorporate into your projects and applications.
+**Pratiklik Odaklı** - Odak noktamız, hemen projelerinize ve uygulamalarınıza dahil edebileceğiniz uygulamalı, pratik tekniklerdir.
 
-**Accessible Examples**—To help you grasp the techniques quickly, we'll provide clear, relevant examples throughout the articles.
+**Erişilebilir Örnekler** - Teknikleri hızla anlamanıza yardımcı olmak için makaleler boyunca açık, ilgili örnekler sağlayacağız.
 
-**Collaborative Learning**—We believe in learning from each other. If you come across something that you don't quite understand or find a mistake, please let us know by creating an [issue on GitHub](https://github.com/trigaten/Learn_Prompting/issues/new/choose). Your feedback helps us improve the course for everyone.
+**İşbirlikçi Öğrenme** - Birbirimizden öğrenmeye inanıyoruz. Anlamadığınız veya hata bulduğunuz bir şeyle karşılaşırsanız, lütfen bize bildirerek [GitHub'da bir konu](https://github.com/trigaten/Learn_Prompting/issues/new/choose) oluşturun. Geri bildiriminiz herkes için kursu geliştirmemize yardımcı olur.
 
 :::note
-This course is under heavy development. We are working hard to improve the learning experience and add more content. If you have any suggestions, please let us know!
+Bu kurs yoğun bir şekilde geliştirilmektedir. Öğrenme deneyimini iyileştirmek ve daha fazla içerik eklemek için çalışıyoruz. Herhangi bir öneriniz varsa lütfen bize bildirin!
 :::
 
-## How to read
+## Nasıl Okunur
 
-There's no need to read all chapters in order; feel free to explore what interests you! If you're new to AI, machine learning, and programming, we suggest starting with the [Basics](https://learnprompting.org/docs/category/-basics) section and the [Instructions](https://learnprompting.org/docs/basics/intro) guide. For those already familiar with these concepts, the [Intermediate](https://learnprompting.org/docs/category/%EF%B8%8F-intermediate) section is a great place to dive in and expand your knowledge.
+Tüm bölümleri sırayla okumanıza gerek yok; ilginizi çeken bölümleri keşfetmekte özgürsünüz! AI, makine öğrenimi ve programlamaya yeniyseniz, [Temel](https://learnprompting.org/docs/category/-basics) bölümüne ve [Giriş](https://learnprompting.org/docs/basics/intro) rehberine başlamanızı öneririz. Bu kavramlara zaten aşina olanlar için [Orta](https://learnprompting.org/docs/category/%EF%B8%8F-intermediate) bölümü bilginizi derinleştirmek için harika bir yerdir.
 
-### Article rating system
+### Makale Değerlendirme Sistemi
 
-We've implemented a rating system for articles based on their level of difficulty and the extent of programming knowledge needed:
+Makaleler için zorluk seviyesi ve programlama bilgisi gereksinimine dayalı bir değerlendirme sistemi uyguladık:
 
-🟢 Beginner-friendly; no programming required
+🟢 Başlangıç düzeyi; programlama gerektirmez
 
-🟡 Easy; basic programming knowledge necessary, but no specialized expertise
+🟡 Kolay; temel programlama bilgisi gereklidir, ancak özel uzmanlık gerektirmez
 
-🔴 Intermediate; programming skills and some domain knowledge required (e.g., calculating logarithmic probabilities)
+🔴 Orta düzey; programlama becerileri ve bazı alan bilgisi gereklidir (örneğin, logaritmik olasılıkları hesaplama)
 
-🟣 Advanced; programming expertise and in-depth domain understanding needed (e.g., reinforcement learning techniques)
+🟣 İleri düzey; programlama uzmanlığı ve derinlemesine alan anlayışı gerektirir (örneğin, pekiştirmeli öğrenme teknikleri)
 
-Please note that even for 🔴 and 🟣 articles, you can generally grasp the content without prior domain expertise, though it may be helpful for implementation.
+Lütfen, 🔴 ve 🟣 makaleler için, genellikle önceden alan uzmanlığı olmadan da içeriği anlayabilirsiniz, ancak uygulamada yardımcı olabilir.
 
-### Chapters
+### Bölümler
 
-Below is a brief overview of each chapter:
+Aşağıda her bölümün kısa bir özeti bulunmaktadır:
 
-**Basics**: Introduction to prompt engineering and fundamental techniques
+**Temel**: Prompt mühendisliğine ve temel tekniklere giriş
 
-**Basic Applications**: Simple, practical applications of prompt engineering
+**Temel Uygulamalar**: Prompt mühendisliğinin basit, pratik uygulamaları
 
-**Intermediate**: Research-based PE techniques with moderate complexity
+**Orta Düzey**: Orta düzeyde karmaşıklıkta araştırma temelli PE teknikleri
 
-**Applied Prompting**: Comprehensive PE process walkthroughs contributed by community members
+**Uygulamalı Prompting**: Topluluk üyeleri tarafından katkıda bulunulan kapsamlı PE süreci adımları
 
-**Advanced Applications**: Powerful, and more complex applications of prompt engineering
+**İleri Düzey Uygulamalar**: Prompt mühendisliğinin güçlü ve daha karmaşık uygulamaları
 
-**Reliability**: Enhancing the reliability of large language models (LLMs)
+**Güvenilirlik**: Büyük dil modellerinin güvenilirliğini artırma
 
-**Images**: Prompt engineering for text-to-image models, such as DALLE and Stable Diffusion
+**Görüntüler**: Metinden görüntüye modeller için prompt mühendisliği, örneğin DALLE ve Stable Diffusion
 
-**Prompt Injection**: Hacking, but for prompt engineering
+**Prompt Enjeksiyonu**: Prompt mühendisliği için hacking
 
-**Tooling**: A review of various prompt engineering tools and IDEs
+**Araçlar**: Çeşitli prompt mühendisliği araçlarının ve IDE'lerin gözden geçirilmesi
 
-**Prompt Tuning**: Refining prompts using gradient-based techniques
+**Prompt Ayarlama**: Gradient tabanlı tekniklerle promptları iyileştirme
 
-**Miscellaneous**: A collection of additional topics and techniques related to prompt engineering
+**Çeşitli**: Prompt mühendisliği ile ilgili ek konular ve tekniklerin bir derlemesi
 
-## Feedback
+## Geri Bildirim
 
-The single most important part of this course is your feedback!
+Bu kursun en önemli kısmı geri bildirimlerinizdir!
 
-If you have any questions, comments, or suggestions, you can:
+Herhangi bir sorunuz, yorumunuz veya öneriniz varsa:
 
-- Make an [issue on GitHub](https://github.com/trigaten/Learn_Prompting/issues/new/choose)
-- Email us at [learnprompting@gmail.com](mailto:learnprompting@gmail.com)
-- Join the [Discord community](https://learnprompting.org/discord)
-- Follow us on [Twitter](https://twitter.com/learnprompting)
-- Join the HackAPrompt Competition until May 26 [Twitter](https://www.aicrowd.com/challenges/hackaprompt-2023)
+- [GitHub'da bir konu açın](https://github.com/trigaten/Learn_Prompting/issues/new/choose)
+- [learnprompting@gmail.com](mailto:learnprompting@gmail.com) adresine e-posta gönderin
+- [Discord topluluğuna katılın](https://learnprompting.org/discord)
+- Bizi [Twitter'da takip edin](https://twitter.com/learnprompting)
+- 26 Mayıs'a kadar HackAPrompt Yarışmasına katılın [Twitter](https://www.aicrowd.com/challenges/hackaprompt-2023)
 
-Even the smallest amount of feedback is very helpful!
+En küçük geri bildirim bile çok yardımcıdır!
